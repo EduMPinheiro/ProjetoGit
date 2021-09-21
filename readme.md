@@ -1,0 +1,1 @@
+Olá, nesse projeto aprendo a mexer com o Git
